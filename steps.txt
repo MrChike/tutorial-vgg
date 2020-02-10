@@ -1,0 +1,23 @@
+# Tut 1 - Serialization - #Tut 3, Step 2
+    Step 1 - Creating a Serializer class
+    Step 2 - Using ModelSerializers
+    Step 3 - Writing regular Django views using our Serializer
+    Step 4 - (Running Commands) Testing our first attempt at a Web API
+
+# Tut 2 - Requests and Responses
+    Step 1 - Pulling it all together
+    Step 2 - Adding optional format suffixes to our URLs
+
+# Tut 3 - Class-based Views
+    Step 1 - Rewriting our API using class-based views
+    Step 2 - Using mixins
+
+# Tut 4 - Authentication & Permissions
+    Step 1 - Adding information to our model
+    Step 2 - Adding endpoints for our User models
+    Step 3 - Associating Snippets with Users
+    Step 4 - Updating our serializer
+    Step 5 - Adding required permissions to views
+    Step 6 - Adding login to the Browsable API
+    Step 7 - Object level permissions
+# Tut 5 - Web page
